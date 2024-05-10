@@ -1,0 +1,28 @@
+
+  .btn1 {
+    background-color: transparent;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    gap: 0 0.5rem;
+    position: relative;
+    margin-top: 4px;
+  }
+
+  .dropdown:hover{
+    cursor: pointer;
+  }
+
+  .user-icon{
+      border: none;
+  }
+
+  user-img{
+      padding: 5px;
+  }
+
+  
+  
+  .bg-light{
+    background-color: #d5e9fd!important;
+  }
